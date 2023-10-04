@@ -1,0 +1,120 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_XooETKxdXP",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-10-04T19:22:53.456Z",
+      "createdAt": "2023-10-04T18:32:53.456Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_eLhNhVeEyN",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "_bf_session_key",
+            "value": "RbPLc7mwGMTmT1OKoQfk9gM7x4TbtaRHPDa60gniWFT1mjNLWLfpXSh7l6X1rumhdj6v9EbT7YUqnkPcgK7K%2FcCwaX6yjeiGEMiTv8VSvJqikUg3LnQetUNl7e4ufa9n8a5bEbil7JMJ8H0lDoF9esNtfuD3kw4hpCauQIjp9ggHanln39yK22AEu43X6%2BXkLcgNttHq5ltgi6DBtHAgS6Y%2Biyob3I%2FmZmFuHoG1a1NGxqYAO25Km23XlUpEL8xp%2FHFo5qY82SU3ps%2BDXpHDzJjSPKPhNas%3D--hVPR5TOYNfE6um%2BY--4v4xpYzTdWyoKu7YG4%2FSkA%3D%3D",
+            "expires": "2023-10-04T19:22:59.401Z",
+            "domain": "www.ycombinator.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-10-04T18:32:59.404Z",
+            "lastAccessed": "2023-10-04T18:32:59.404Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.2.1871099456.1696444377",
+            "expires": "2024-11-07T18:32:56.893Z",
+            "domain": "ycombinator.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-10-04T18:32:59.406Z",
+            "lastAccessed": "2023-10-04T18:32:59.406Z"
+          },
+          {
+            "key": "_gid",
+            "value": "GA1.2.966511292.1696444377",
+            "expires": "2023-10-05T18:32:56.000Z",
+            "domain": "ycombinator.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-10-04T18:32:59.411Z",
+            "lastAccessed": "2023-10-04T18:32:59.411Z"
+          },
+          {
+            "key": "amp_dd1bb8",
+            "value": "kxgIRzYeV-moZAJWq1eEa9...1hbtvdq16.1hbtvdq16.0.0.0",
+            "expires": "2024-10-03T18:32:57.000Z",
+            "domain": "ycombinator.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-10-04T18:32:59.414Z",
+            "lastAccessed": "2023-10-04T18:32:59.414Z"
+          },
+          {
+            "key": "_gat",
+            "value": "1",
+            "expires": "2023-10-04T18:33:57.000Z",
+            "domain": "ycombinator.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-10-04T18:32:59.415Z",
+            "lastAccessed": "2023-10-04T18:32:59.415Z"
+          },
+          {
+            "key": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+            "value": "%7B%22distinct_id%22%3A%22018afbf6-eae0-7c33-a72e-e4a27bdac4e7%22%2C%22%24device_id%22%3A%22018afbf6-eae0-7c33-a72e-e4a27bdac4e7%22%2C%22%24user_state%22%3A%22anonymous%22%2C%22%24sesid%22%3A%5B1696444377829%2C%22018afbf6-eae5-71e3-bcf8-cea50f80b190%22%2C1696444377829%5D%2C%22%24session_recording_enabled_server_side%22%3Afalse%2C%22%24autocapture_disabled_server_side%22%3Afalse%2C%22%24active_feature_flags%22%3A%5B%22landing_page_2%22%2C%22landing_page_4%22%2C%22landing_page%22%2C%22landing_page_3%22%5D%2C%22%24enabled_feature_flags%22%3A%7B%22session_recording_cfm%22%3Afalse%2C%22session_recording_sus%22%3Afalse%2C%22landing_page_2%22%3A%22test%22%2C%22landing_page_4%22%3Atrue%2C%22landing_page%22%3A%22control%22%2C%22landing_page_3%22%3Atrue%7D%2C%22%24feature_flag_payloads%22%3A%7B%7D%7D",
+            "expires": "2024-10-03T18:32:58.000Z",
+            "domain": "ycombinator.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2023-10-04T18:32:59.416Z",
+            "lastAccessed": "2023-10-04T18:32:59.416Z"
+          },
+          {
+            "key": "_ga_CHJJ1RJL5K",
+            "value": "GS1.2.1696444378.1.0.1696444378.60.0.0",
+            "expires": "2024-11-07T18:32:58.583Z",
+            "domain": "ycombinator.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-10-04T18:32:59.416Z",
+            "lastAccessed": "2023-10-04T18:32:59.416Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-10-04T19:22:53.460Z",
+      "createdAt": "2023-10-04T18:32:53.460Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
